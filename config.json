@@ -1,0 +1,15 @@
+{
+  "token": "MzY3NDEzMzI1NzExMjc4MDgw.DL7D5Q.T0zp0kLN2PGglti-gJ1SYk1-xi8",
+  "mailGuildId": "356173468276097025",
+  "mainGuildId": "339796345802194946",
+  "responseMessage": "Thank you for your message! One of our staff team will reply to you here soon!",
+  "prefix": "#",
+  "status": "If you need help, DM me!",
+  "alwaysReply": "true",
+  "alwaysReplyAnon": "false",
+  "useNicknames": "true",
+  "ignoreAccidentalThreads": "false",
+  "enableGreeting": "false",
+  "greetingMessage": "Hello There! I'm <@367413325711278080>! Feel free to DM me if you have a question! We are open for any suggestion, question or even a report :open_mounth: ! Feel free to DM me anytime!",
+  "greetingAttachment": "https://cdn.discordapp.com/attachments/328217116924837889/367712285684400128/image.png"
+}
