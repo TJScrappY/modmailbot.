@@ -1,8 +1,9 @@
 {
   "token": "NDQzMTA1NzIzODIwMjc3NzYw.DdJCog.jeOCxRhBTlURFL3yY_IKrlx9VnE",
-  "mailGuildId": "413242786566111233",
-  "mainGuildId": "424179074701721611",
+  "mailGuildId": "443150632350777344",
+  "mainGuildId": "413242786566111233",
   "responseMessage": "Gracias por el mensaje! Alguno de nuestros staff te respondera pronto!",
+  "logChannelId": "443151491319201823",
   "prefix": "#",
   "status": "Si necesitas ayuda manda DM!",
   "alwaysReply": "true",
