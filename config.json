@@ -1,15 +1,15 @@
 {
-  "token": "MzY3NDEzMzI1NzExMjc4MDgw.DL7D5Q.T0zp0kLN2PGglti-gJ1SYk1-xi8",
-  "mailGuildId": "356173468276097025",
-  "mainGuildId": "339796345802194946",
-  "responseMessage": "Thank you for your message! One of our staff team will reply to you here soon!",
+  "token": "NDQzMTA1NzIzODIwMjc3NzYw.DdJCog.jeOCxRhBTlURFL3yY_IKrlx9VnE",
+  "mailGuildId": "413242786566111233",
+  "mainGuildId": "424179074701721611",
+  "responseMessage": "Gracias por el mensaje! Alguno de nuestros staff te respondera pronto!",
   "prefix": "#",
-  "status": "If you need help, DM me!",
+  "status": "Si necesitas ayuda manda DM!",
   "alwaysReply": "true",
   "alwaysReplyAnon": "false",
   "useNicknames": "true",
   "ignoreAccidentalThreads": "false",
   "enableGreeting": "false",
-  "greetingMessage": "Hello There! I'm <@367413325711278080>! Feel free to DM me if you have a question! We are open for any suggestion, question or even a report :open_mounth: ! Feel free to DM me anytime!",
-  "greetingAttachment": "https://cdn.discordapp.com/attachments/328217116924837889/367712285684400128/image.png"
+  "greetingMessage": "Hola! Soy un bot ayudante mandame DM me si tienes alguna pregunta! Estoy abierto a preguntas, dudas o incluso a reports :open_mounth: ! Manda DM siempre que quieras!",
+  "greetingAttachment": "https://cdn.discordapp.com/attachments/432207547794194443/441969789959798794/Cool_Text_-_BIENVENIDOS_ATEAM_JAMON_285169754331795.pngg"
 }
