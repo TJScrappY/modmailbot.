@@ -5,12 +5,12 @@
   "responseMessage": "Gracias por el mensaje! Alguno de nuestros staff te respondera pronto!",
   "logChannelId": "443151491319201823",
   "prefix": "!",
-  "status": "Si necesitas ayuda manda DM!",
+  "status": "Si necesitas ayuda mandame mensaje!",
   "alwaysReply": "true",
   "alwaysReplyAnon": "false",
   "useNicknames": "true",
   "ignoreAccidentalThreads": "false",
-  "enableGreeting": "false",
-  "greetingMessage": "Hola! Soy un bot ayudante mandame DM me si tienes alguna pregunta! Estoy abierto a preguntas, dudas o incluso a reports :open_mounth: ! Manda DM siempre que quieras!",
+  "enableGreeting": "true",
+  "greetingMessage": "Hola! Soy un bot ayudante mandame mensaje si tienes alguna pregunta! Estoy abierto a preguntas, dudas o incluso a reports :open_mounth: ! Manda mensaje siempre que quieras!",
   "greetingAttachment": "https://cdn.discordapp.com/attachments/432207547794194443/441969789959798794/Cool_Text_-_BIENVENIDOS_ATEAM_JAMON_285169754331795.pngg"
 }
